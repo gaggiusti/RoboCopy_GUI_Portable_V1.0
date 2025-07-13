@@ -2,6 +2,8 @@
 
 A free, intuitive graphical user interface (GUI) for the Windows command-line tool RoboCopy. Designed by Gianpaolo Aggiusti, this software simplifies file and folder copy and synchronization operations, making them accessible even to less experienced users. Its purpose is to provide complete control over RoboCopy through a user-friendly interface, eliminating the need to memorize complex commands.
 
+Download links at the bottom of the page.
+
 ---
 
 ## About Robocopy
@@ -133,5 +135,7 @@ For questions, suggestions, or bug reports:
 **Email:** [g.aggiusti@gmail.com](mailto:g.aggiusti@gmail.com)
 
 Support development via [PayPal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=g.aggiusti@gmail.com&item_name=Donation+for+RobocopyGUI)
+
+DOWNLOAD LINK: http://bit.ly/3Io03oh
 
 ---
