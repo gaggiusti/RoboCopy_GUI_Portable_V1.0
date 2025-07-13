@@ -1,8 +1,8 @@
+DOWNLOAD LINKS at the bottom of the page.
+
 # RoboCopy All In One GUI V1.0
 
 A free, intuitive graphical user interface (GUI) for the Windows command-line tool RoboCopy. Designed by Gianpaolo Aggiusti, this software simplifies file and folder copy and synchronization operations, making them accessible even to less experienced users. Its purpose is to provide complete control over RoboCopy through a user-friendly interface, eliminating the need to memorize complex commands.
-
-DOWNLOAD LINKS at the bottom of the page.
 
 ---
 
